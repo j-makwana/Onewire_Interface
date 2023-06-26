@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="onewiresecond" location="/home/jmakwana/workspace/onewiresecond" platform="/home/jmakwana/workspace/one_wire_wrapper/export/one_wire_wrapper/one_wire_wrapper.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="onewiresecond_system" sysConfig="one_wire_wrapper" runtime="C/C++" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="1ffb69b092dbcfa322c84440dd807cc6">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.443178812">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1181491975" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

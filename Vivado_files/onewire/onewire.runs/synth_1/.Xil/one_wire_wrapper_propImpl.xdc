@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:/home/jmakwana/onewire/onewire.srcs/constrs_1/new/one_wire_constraints.xdc rfile:../../../onewire.srcs/constrs_1/new/one_wire_constraints.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:139 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN P14   IOSTANDARD LVCMOS33     } [get_ports { rx_0 }]; #IO_L6P_T0_34 Sch=jd_p[2]
+set_property src_info {type:XDC file:1 line:140 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN R14   IOSTANDARD LVCMOS33     } [get_ports { tx_0 }]; #IO_L6N_T0_VREF_34 Sch=jd_n[2]

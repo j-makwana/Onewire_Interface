@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Jun 16 11:34:49 2023
+# Process ID: 1067117
+# Current directory: /home/jmakwana/onewire/onewire.runs/impl_1
+# Command line: vivado -log one_wire_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source one_wire_wrapper.tcl -notrace
+# Log file: /home/jmakwana/onewire/onewire.runs/impl_1/one_wire_wrapper.vdi
+# Journal file: /home/jmakwana/onewire/onewire.runs/impl_1/vivado.jou
+# Running On: shisengr2.ssec.wisc.edu, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 12, Host memory: 67002 MB
+#-----------------------------------------------------------
+source one_wire_wrapper.tcl -notrace
